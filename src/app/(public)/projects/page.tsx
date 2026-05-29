@@ -51,7 +51,7 @@ const projects = [
     id: "p5",
     title: "School Solar Power System",
     country: "Zimbabwe",
-    category: "Commercial",
+    category: "Residential",
     description: "Solar PV and battery system providing reliable power to a school, enabling uninterrupted learning.",
     images: ["/images/projects/project-8.jpg"],
     year: "2023",
