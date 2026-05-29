@@ -64,7 +64,7 @@ export default function ContactPage() {
 
               {/* WhatsApp prominent CTA */}
               <a
-                href="https://wa.me/2779645562?text=Hi%2C%20I%27d%20like%20to%20enquire%20about%20your%20solar%20services."
+                href="https://wa.me/27792645562?text=Hi%2C%20I%27d%20like%20to%20enquire%20about%20your%20solar%20services."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 p-5 bg-green-50 border border-green-200 rounded-2xl hover:bg-green-100 transition-colors mb-8 group"
