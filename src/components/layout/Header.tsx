@@ -51,7 +51,7 @@ export default function Header() {
               className="flex items-center gap-1.5 hover:text-[#e8821a] transition-colors"
             >
               <Mail size={13} />
-              info@robustsolarenergy.co.za
+              robustsolares@gmail.com
             </a>
           </div>
           <span className="text-white/60 text-xs">
